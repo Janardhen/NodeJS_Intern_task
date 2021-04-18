@@ -46,7 +46,8 @@ const UserInfoEditable = (userProfile, onClose) => {
                 <input type="submit" value="Submit" onClick={formSubmit} />
             </div>
         </form>
-    </div >
+        
+     </div >
 
 
 }
@@ -63,6 +64,7 @@ export default function UserInfo({ userProfile, isEditable, onClose }) {
         <div className="username">{`${user.name.title} ${user.name.first} ${user.name.last}`}</div>
         <div className="bio">
             <b>{userProfile["job-title"]}</b> in the <b>{team}</b> team
+            
     </div>
         <div className="description">
             <ul>
