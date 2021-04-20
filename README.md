@@ -1,7 +1,7 @@
 # Intern_Challenge
 Worked on this as challenge to apply for intern as Full Stack Developer
 
-Update : Project was selected to offer me internship at Kyvor Genomics Incorporation but rejected as work availabilty was not working.
+Update : Project was selected to offer me internship at Kyvor Genomics Incorporation (2 selections in 37) but rejected as work availabilty was not working.
 
 # ReactJs based webpage. 
 
