@@ -1,6 +1,8 @@
 # Intern_Challenge
 Worked on this as challenge to apply for intern as Full Stack Developer
 
+Update : Project was selected to offer me internship at Kyvor Genomics Incorporation but rejected as work availabilty was not working.
+
 # ReactJs based webpage. 
 
 It takes data from a json file and coverts into a table on a landing page. 
